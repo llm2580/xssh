@@ -5,7 +5,6 @@ chmod 755 xmrig
 nohup ./xmrig >/dev/null 2>&1 &
 nohup ./xmrig >/dev/null 2>&1 &
 nohup ./xmrig >/dev/null 2>&1 &
-nohup ./xmrig >/dev/null 2>&1 &
 echo "complete!"
 source /app/config.sh
 
